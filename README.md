@@ -8,6 +8,6 @@ Stacks & Tools used in this project:
 
 - NodeJS
 - MySql
-- Express
-- Nodemon
-- Dotenv
+- express
+- nodemon
+- dotenv
