@@ -6,8 +6,8 @@ In this project, the user can perform the basic CRUD operations, creat, read upd
 
 Stacks & Tools used in this project:
 
-- NodeJS
-- MySql
+- nodejs
+- mysql
 - express
 - nodemon
 - dotenv
