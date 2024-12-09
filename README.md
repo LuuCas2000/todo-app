@@ -8,7 +8,7 @@ Endpoints for each actions:
 
 - **/** (retrieve all tasks from the database)
 - **/:id** (retrieve a single task by specifying its id)
-- **/task/new** (create a new task)
+- **/task/create** (create a new task)
 - **/task/update/:id** (update a task by specifying its id)
 - **/task/delete/:id** (delete a task by specifying its id)
 
